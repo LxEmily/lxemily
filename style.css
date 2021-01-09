@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: dark) {
+  .theme {
+    background: light-gray;
+    fill: white;
+  }
+}
+
+.theme {
+  width: 16px;
+  height: 16px;
+}

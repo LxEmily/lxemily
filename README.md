@@ -15,22 +15,33 @@ I think art, books, skincare, games, mechanical keyboards, and tech are cute. �
 - 📚 Made a web-based [library management system](https://github.com/LxEmily/lms).
 - 🎲 Made [Backgammon](https://github.com/LxEmily/backgammon) the board game.
 
-<!-- #### Contact me -->
+<link href="style.css" rel="stylesheet" />
+
+#### Contact me
+
+<a href="https://twitter.com/lxemily_"><img src="https://simpleicons.org/icons/twitter.svg" style="theme"></a>
 
 
 <a href="https://now-playing-profile-lxemily.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile-lxemily.vercel.app/now-playing" width="256" height="64" alt="Now Playing on Spotify">
+    <img src="https://now-playing-profile-lxemily.vercel.app/now-playing" width="256" height="64" alt="Now Playing on Spotify" target="_blank">
 </a>
 
 <sup>[JoshLmao/now-playing-profile](https://github.com/JoshLmao/now-playing-profile)</sup>
 
-![Languages in Repositories](https://github.com/LxEmily/jstrieb-github-stats/blob/master/generated/languages.svg)
+<!-- ![Languages in Repositories](https://github.com/LxEmily/jstrieb-github-stats/blob/master/generated/languages.svg) -->
+
+<object data="https://github.com/LxEmily/jstrieb-github-stats/blob/master/generated/languages.svg" class="theme">
 
 <sup>[jstrieb/github-stats](https://github.com/jstrieb/github-stats)</sup>
 
 ![View counter](https://komarev.com/ghpvc/?username=lxemily&color=lightgray&label=Views)
 
 <sup>[antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)</sup>
+
+<!-- TODO:
+- add link logos
+- put in 2 columns or other layout
+- make cards support dark mode -->
 
 
 <!--

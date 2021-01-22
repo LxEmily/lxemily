@@ -4,9 +4,9 @@ I think art, books, skincare, games, mechanical keyboards, and tech are cute. �
 
 #### What I'm doing
 
-- 👩‍💻 Charging up for my final semester of computer science at University College Dublin.
+- 👩‍💻 Final semester of computer science at University College Dublin.
 - 💶 Managing finances at [UCD Netsoc](https://netsoc.com).
-- 🤔 Thinking about my [website](https://lxemily.com), FYP, coding interviews, and [SISTEM 2021](https://sistem.intersocs.ie/).
+- 🤔 Overthinking my [website](https://lxemily.com), FYP, coding interviews, and [SISTEM 2021](https://sistem.intersocs.ie/).
 
 #### What I've done
 
@@ -21,24 +21,33 @@ I think art, books, skincare, games, mechanical keyboards, and tech are cute. �
 - 🐤 Twitter
 - 📁 CV -->
 
-<a href="https://twitter.com/lxemily_"><img src="https://img.icons8.com/doodle/000000/twitter-circled.png" alt="Twitter" title="Twitter"/></a>
-<a href="https://linkedin.com/in/lxemily"><img src="https://img.icons8.com/doodle/000000/linkedin-circled.png" alt="LinkedIn" title="LinkedIn"/></a>
-<a href="mailto:hello@lxemily.com"><img src="https://img.icons8.com/doodle/000000/open-envelope--v1.png" alt="Mail" title="Mail"/></a>
-<a href="https://drive.google.com/file/d/17ElqP0tLtR9m3p0Kxz_AWUOqyu_ho5uJ/view?usp=sharing"><img src="https://img.icons8.com/doodle/000000/scroll.png" alt="CV" title="CV"/></a>
-<a href="https://lxemily.com"><img src="https://img.icons8.com/doodle/000000/typewriter-with-paper.png" alt="Website/blog" title="Website/blog"/></a>
-<a href="https://now-playing-profile-lxemily.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile-lxemily.vercel.app/now-playing" width="256" height="64" alt="Now Playing on Spotify">
+<a href="https://twitter.com/lxemily_">
+  <img src="https://img.icons8.com/doodle/000000/twitter-circled.png" alt="Twitter" title="Twitter" />
 </a>
-
-#### GitHub stats
+<a href="https://linkedin.com/in/lxemily">
+  <img src="https://img.icons8.com/doodle/000000/linkedin-circled.png" alt="LinkedIn" title="LinkedIn" />
+</a>
+<a href="mailto:hello@lxemily.com">
+  <img src="https://img.icons8.com/doodle/000000/open-envelope--v1.png" alt="Mail" title="Mail" />
+</a>
+<a href="https://drive.google.com/file/d/17ElqP0tLtR9m3p0Kxz_AWUOqyu_ho5uJ/view?usp=sharing">
+  <img src="https://img.icons8.com/doodle/000000/scroll.png" alt="CV" title="CV" />
+</a>
+<a href="https://lxemily.com">
+  <img src="https://img.icons8.com/doodle/000000/typewriter-with-paper.png" alt="Website/blog" title="Website/blog" />
+</a>
+<a href="https://now-playing-profile-lxemily.vercel.app/now-playing?open">
+  <img src="https://now-playing-profile-lxemily.vercel.app/now-playing" width="256" height="64" alt="Now Playing on Spotify" />
+</a>
 
 ![Languages in Repositories](https://github.com/LxEmily/jstrieb-github-stats/blob/master/generated/languages.svg)
 
-![View counter](https://komarev.com/ghpvc/?username=lxemily&color=lightgray&label=Views)
-
 <details>
-<summary>About this readme</summary>
+<summary>About this profile/readme</summary>
 
+![View counter](https://komarev.com/ghpvc/?username=lxemily&color=lightgray&label=Total+Views)
+
+- Profile picture by [@ummmmandy](https://ummmmandy.tumblr.com/) on [Picrew](https://picrew.me/image_maker/114808)
 - Doodle icons by [Icons8](https://icons8.com/icon/set/popular/doodle)
 - Spotify Now Playing widget by [JoshLmao/now-playing-profile](https://github.com/JoshLmao/now-playing-profile)
 - GitHub Stats (utilizing GitHub actions) by [jstrieb/github-stats](https://github.com/jstrieb/github-stats)

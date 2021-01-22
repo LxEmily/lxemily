@@ -15,22 +15,36 @@ I think art, books, skincare, games, mechanical keyboards, and tech are cute. �
 - 📚 Made a web-based [library management system](https://github.com/LxEmily/lms).
 - 🎲 Made [Backgammon](https://github.com/LxEmily/backgammon) the board game.
 
-<!-- #### Contact me -->
+#### Internet AFK spots
+<!-- - 🖥 Website
+- 💼 LinkedIn
+- 🐤 Twitter
+- 📁 CV -->
 
-
+<a href="https://twitter.com/lxemily_"><img src="https://img.icons8.com/doodle/000000/twitter-circled.png" alt="Twitter" title="Twitter"/></a>
+<a href="https://linkedin.com/in/lxemily"><img src="https://img.icons8.com/doodle/000000/linkedin-circled.png" alt="LinkedIn" title="LinkedIn"/></a>
+<a href="mailto:hello@lxemily.com"><img src="https://img.icons8.com/doodle/000000/open-envelope--v1.png" alt="Mail" title="Mail"/></a>
+<a href="https://drive.google.com/file/d/17ElqP0tLtR9m3p0Kxz_AWUOqyu_ho5uJ/view?usp=sharing"><img src="https://img.icons8.com/doodle/000000/scroll.png" alt="CV" title="CV"/></a>
+<a href="https://lxemily.com"><img src="https://img.icons8.com/doodle/000000/typewriter-with-paper.png" alt="Website/blog" title="Website/blog"/></a>
 <a href="https://now-playing-profile-lxemily.vercel.app/now-playing?open">
     <img src="https://now-playing-profile-lxemily.vercel.app/now-playing" width="256" height="64" alt="Now Playing on Spotify">
 </a>
 
-<sup>[JoshLmao/now-playing-profile](https://github.com/JoshLmao/now-playing-profile)</sup>
+#### GitHub stats
 
 ![Languages in Repositories](https://github.com/LxEmily/jstrieb-github-stats/blob/master/generated/languages.svg)
 
-<sup>[jstrieb/github-stats](https://github.com/jstrieb/github-stats)</sup>
-
 ![View counter](https://komarev.com/ghpvc/?username=lxemily&color=lightgray&label=Views)
 
-<sup>[antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)</sup>
+<details>
+<summary>About this readme</summary>
+
+- Doodle icons by [Icons8](https://icons8.com/icon/set/popular/doodle)
+- Spotify Now Playing widget by [JoshLmao/now-playing-profile](https://github.com/JoshLmao/now-playing-profile)
+- GitHub Stats (utilizing GitHub actions) by [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
+- View counter by [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+
+</details>
 
 
 <!--

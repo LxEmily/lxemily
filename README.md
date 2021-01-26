@@ -11,7 +11,7 @@ I think art, books, skincare, games, mechanical keyboards, and tech are cute. �
 #### What I've done
 
 <!-- - 🖼 Made an [app](https://github.com/LxEmily/gallery) where users upload images and annotate them.-->
-- 📱 QA-ed mobile apps at [Ding.com](https://ding.com).
+- 📱 QA'ed mobile apps at [Ding.com](https://ding.com).
 - 📚 Made a web-based [library management system](https://github.com/LxEmily/lms).
 - 🎲 Made [Backgammon](https://github.com/LxEmily/backgammon) the board game.
 

@@ -4,15 +4,15 @@ I think art, books, skincare, games, mechanical keyboards, and tech are cute. �
 
 #### What I'm doing
 
-- 👩‍💻 Final semester of computer science at University College Dublin.
-- 💶 Managing finances at [UCD Netsoc](https://netsoc.com).
-- 🤔 Overthinking my [website](https://lxemily.com), FYP, coding interviews, and [SISTEM 2021](https://sistem.intersocs.ie/).
+- 💵 Looking for a graduate software engineering position in Dublin, Ireland. 
+- 🤔 Thinking about my [website](https://lxemily.com), digital gardens, and personal online spaces.
 
 #### What I've done
 
+- 👩‍💻 Investigated biasing news recommender systems with reinforcement learning for my thesis.
 - 🖼 Made an [app](https://github.com/LxEmily/gallery) where users upload images and annotate them.
 - 📱 QA'ed mobile apps at [Ding.com](https://ding.com).
-- 📚 Made a web-based [library management system](https://github.com/LxEmily/lms).
+<!-- - 📚 Made a web-based [library management system](https://github.com/LxEmily/lms). -->
 <!-- - 🎲 Made [Backgammon](https://github.com/LxEmily/backgammon) the board game. -->
 
 #### Internet AFK spots

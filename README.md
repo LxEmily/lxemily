@@ -15,11 +15,21 @@ I think art, books, skincare, games, mechanical keyboards, and personal online s
 <!-- - 📚 Made a web-based [library management system](https://github.com/LxEmily/lms). -->
 <!-- - 🎲 Made [Backgammon](https://github.com/LxEmily/backgammon) the board game. -->
 
+
+#### Find me elsewhere
+- [🖥 Website](https://lxemily.com) 
+- [💼 LinkedIn](https://linkedin.com/in/lxemily)
+- [🐤 Twitter](https://twitter.com/lxemily_)
+
+
+
+
+<!--
 #### Internet AFK spots
-<!-- - 🖥 Website
+- 🖥 Website
 - 💼 LinkedIn
 - 🐤 Twitter
-- 📁 CV -->
+- 📁 CV
 
 <a href="https://twitter.com/lxemily_">
   <img src="https://img.icons8.com/doodle/000000/twitter-circled.png" alt="Twitter" title="Twitter" />
@@ -36,11 +46,12 @@ I think art, books, skincare, games, mechanical keyboards, and personal online s
 <a href="https://lxemily.com">
   <img src="https://img.icons8.com/doodle/000000/typewriter-with-paper.png" alt="Website/blog" title="Website/blog" />
 </a>
-<!--<a href="https://now-playing-profile-lxemily.vercel.app/now-playing?open">
+<a href="https://now-playing-profile-lxemily.vercel.app/now-playing?open">
   <img src="https://now-playing-profile-lxemily.vercel.app/now-playing" width="256" height="64" alt="Now Playing on Spotify" />
 </a>
 
-![Languages in Repositories](https://github.com/LxEmily/jstrieb-github-stats/blob/master/generated/languages.svg)-->
+![Languages in Repositories](https://github.com/LxEmily/jstrieb-github-stats/blob/master/generated/languages.svg)
+-->
 
 <details>
 <summary>About this profile/readme</summary>

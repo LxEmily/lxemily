@@ -1,11 +1,11 @@
 ### Hi, my name is Emily 🌱
 
-I think art, books, skincare, games, mechanical keyboards, and tech are cute. ✨ (she/her)
+I think art, books, skincare, games, mechanical keyboards, and personal online spaces are cute. ✨ (she/her)
 
-#### What I'm doing
+<!-- #### What I'm doing
 
 - 💵 Looking for a graduate software engineering position in Dublin, Ireland. 
-- 🤔 Thinking about my [website](https://lxemily.com), digital gardens, and personal online spaces.
+- 🤔 Thinking about my [website](https://lxemily.com), digital gardens, and personal online spaces. -->
 
 #### What I've done
 
@@ -36,11 +36,11 @@ I think art, books, skincare, games, mechanical keyboards, and tech are cute. �
 <a href="https://lxemily.com">
   <img src="https://img.icons8.com/doodle/000000/typewriter-with-paper.png" alt="Website/blog" title="Website/blog" />
 </a>
-<a href="https://now-playing-profile-lxemily.vercel.app/now-playing?open">
+<!--<a href="https://now-playing-profile-lxemily.vercel.app/now-playing?open">
   <img src="https://now-playing-profile-lxemily.vercel.app/now-playing" width="256" height="64" alt="Now Playing on Spotify" />
 </a>
 
-![Languages in Repositories](https://github.com/LxEmily/jstrieb-github-stats/blob/master/generated/languages.svg)
+![Languages in Repositories](https://github.com/LxEmily/jstrieb-github-stats/blob/master/generated/languages.svg)-->
 
 <details>
 <summary>About this profile/readme</summary>
